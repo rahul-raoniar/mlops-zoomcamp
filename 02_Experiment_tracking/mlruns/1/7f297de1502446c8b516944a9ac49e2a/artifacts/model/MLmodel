@@ -1,4 +1,4 @@
-artifact_path: models_mlflow
+artifact_path: model
 flavors:
   python_function:
     data: model.xgb
@@ -11,6 +11,6 @@ flavors:
     model_class: xgboost.core.Booster
     xgb_version: 1.6.2
 mlflow_version: 1.30.0
-model_uuid: b919e81630834cc0b23390ef8b99f449
-run_id: f7836a9cd7fd4d06b6c89020443e68b2
-utc_time_created: '2022-10-30 08:12:55.384965'
+model_uuid: 2433327a96bf44d2b6614f98cfe5d35e
+run_id: 7f297de1502446c8b516944a9ac49e2a
+utc_time_created: '2022-10-30 13:27:42.862892'
